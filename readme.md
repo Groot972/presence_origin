@@ -6,7 +6,8 @@
 
 ## General Infos
 
-The goal of this project is to do the call of students at school. 
+The goal of this project is to do the call of students at school.
+:warning: Authentication not ready ! :warning:
 
 **Student** :   
 - Connexion, see presence, abscences and if the call already do.  
